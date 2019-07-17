@@ -1,0 +1,23 @@
+.card {
+	text-align: left;
+	font-family: 'Mali', cursive;
+	color: #280868;
+	background-color: #ffffff;
+	border-radius: 10px;
+	box-shadow: 10px 10px 0px 0px #78c0a8;
+}
+
+.card-body > h5,
+.card-body > h6 {
+	cursor: pointer;
+}
+
+.Todo-Completed {
+	text-decoration: line-through;
+	background-color: #efefef;
+	box-shadow: 10px 10px 0px 0px #78c0a8;
+}
+
+.card button {
+	border: none;
+}

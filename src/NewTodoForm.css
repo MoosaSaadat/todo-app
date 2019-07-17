@@ -1,0 +1,17 @@
+.NewTodoForm button {
+     background-color: rgba(247, 124, 37, 0.75);
+     border-color: rgba(247, 124, 37, 0.75);
+}
+
+.NewTodoForm button:hover {
+     background-color: rgba(247, 124, 37, 1);
+     border-color: rgba(247, 124, 37, 1);
+}
+
+.NewTodoForm button:focus {
+     box-shadow: none;
+}
+
+.NewTodoForm input, .NewTodoForm button {
+     font-family: 'Mali', cursive;
+}
